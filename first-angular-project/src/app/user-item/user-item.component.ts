@@ -11,8 +11,8 @@ export class UserItemComponent implements OnInit {
   nim: string;
 
   constructor() {
-    this.name = 'Nicholas Gautama';
-    this.nim = '00000044993';
+    this.name = 'Made Reihan Diva Suarna';
+    this.nim = '00000044540';
   }
 
   ngOnInit(): void {
